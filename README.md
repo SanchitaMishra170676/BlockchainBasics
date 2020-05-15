@@ -40,3 +40,47 @@ Core topics :
 * Previous Block
 * Next Block
 * Merkle Root
+## Work of miners
+* verify transactions
+* Broadcast transactions
+* compete to create a block
+* Reacg consensus by validating blocks
+* Broadcast new bolck
+* confirm transactions
+#### Miners perform operations designed by bolckchain proetocal
+
+## Transaction 0
+* for paying minor fees
+* does not have an input UTXO
+* is called coin based transaction
+
+## Smart Contract
+#### Etherium bolckchain used the optional scripting feature to develop a full blown code execution framework called smart contract
+Execution of smart contract is initiated by a message embedded in the tracnsaction
+
+## Types of Blockchain
+* only cryptocurrency - Bitcoin
+* currency + Bussiness logic - Etherium
+* Only Bussiness logic - Linux foundation's Hyperledger
+
+## Categories:
+* Public
+* Private
+* Permissioned / consortium
+
+### Solidity for Smart Contract
+#### Basic Syntax
+pragma solidity ^0.40;
+contract SimpleStorage {
+ uint storedData;
+ function set (uint x){
+  storedData =x;
+  }
+  
+  function get() constant returns (uint){
+  return storedData;
+  }
+  }
+  
+  The code is rum in EVM or etherium virtual machine
+  
