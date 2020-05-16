@@ -84,3 +84,15 @@ contract SimpleStorage {
   
   The code is rum in EVM or etherium virtual machine
   
+  #### Reference no.
+  input UTXOs --> output UTXOs
+  
+ ## TYpes of Accounts
+ * Externaly owned acc
+ * Contract Acc
+ 
+ ### Externally owned acc can transfer ethers or messages
+ ### Contract accs are used to hold ethres while acting as an intermediary. 
+ Eg - Caution machine will be stored in the contract acc and transferred in the respective acc as per the situations and norms.
+ 
+              
