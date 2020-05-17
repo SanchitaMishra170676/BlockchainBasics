@@ -1,7 +1,7 @@
 # BlockchainBasics : https://www.coursera.org/learn/blockchain-basics/home/welcome
 ## Certificate : https://www.coursera.org/account/accomplishments/records/GYCDHPSXRUG4 
 ```
-+ Contains the assignment to the Blockchain Basics course offered by Buffalo University on Coursera.
+ Contains the assignment and notes of the Blockchain Basics course offered by Buffalo University on Coursera.
 ```
 Core topics :
 # Blockhain - for decentralised, peer to peer connection
