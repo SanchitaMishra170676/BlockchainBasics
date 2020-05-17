@@ -1,7 +1,7 @@
 # BlockchainBasics :
 
 ## [Certificate](https://www.coursera.org/account/accomplishments/records/GYCDHPSXRUG4  "My certificate")
-### [Go to course](https://www.coursera.org/learn/blockchain-basics/home/welcome "Offered Course")
+### [Course](https://www.coursera.org/learn/blockchain-basics/home/welcome "Offered Course")
 
 ```
  Contains the assignment and notes of the Blockchain Basics course offered by Buffalo University on Coursera.
@@ -117,7 +117,9 @@ contract SimpleStorage {
  ## Ethereum Node
  An ethereum node is a computational system representing a business entity or an individual participant.
  #### An ethereum full node hosts the software needed for transaction initiation, validation, mining, block creation, smart contract evaluation and EVM.
- + A blockchain maintains both a state hash and a receipt hash
+ ```
+ A blockchain maintains both a state hash and a receipt hash
+ ```
  
  
 
