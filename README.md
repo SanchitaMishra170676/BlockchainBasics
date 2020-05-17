@@ -1,4 +1,5 @@
-# BlockchainBasics : https://www.coursera.org/learn/blockchain-basics/home/welcome
+# BlockchainBasics :
+[Go to course]  (https://www.coursera.org/learn/blockchain-basics/home/welcome)
 ## Certificate : https://www.coursera.org/account/accomplishments/records/GYCDHPSXRUG4 
 ```
  Contains the assignment and notes of the Blockchain Basics course offered by Buffalo University on Coursera.
