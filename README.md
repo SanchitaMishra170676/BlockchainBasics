@@ -55,7 +55,7 @@ Core topics :
 * is called coin based transaction
 
 ## Smart Contract
-#### Etherium bolckchain used the optional scripting feature to develop a full blown code execution framework called smart contract
+#### Ethereum bolckchain used the optional scripting feature to develop a full blown code execution framework called smart contract
 Execution of smart contract is initiated by a message embedded in the tracnsaction
 
 ## Types of Blockchain
@@ -82,7 +82,7 @@ contract SimpleStorage {
   }
   }
   
-  The code is rum in EVM or etherium virtual machine
+  The code is rum in EVM or ethereum virtual machine
   
   #### Reference no.
   input UTXOs --> output UTXOs
@@ -93,6 +93,26 @@ contract SimpleStorage {
  
  ### Externally owned acc can transfer ethers or messages
  ### Contract accs are used to hold ethres while acting as an intermediary. 
- Eg - Caution machine will be stored in the contract acc and transferred in the respective acc as per the situations and norms.
+ Eg - Caution money will be stored in the contract acc and transferred in the respective acc as per the situations and norms.
+ 
+ #### Accounts need to pay fees for transaction. 
+ These are paid in wei, a lower denominationof ether.
+ 
+ ### 1 ether = 10^18 wei
+ 
+ ## Transaction involves :
+ * Signature of sneder authorizing transfer
+ * Amount of wei
+ * Message to a contract
+ * Start gas (max no. of steps)
+ * gas price (fee for computation)
+ #### Header --> Transactions --> Runneruo headers
+ 
+ ## Ethereum Node
+ An ethereum node is a computational system representing a business entity or an individual participant.
+ #### An ethereum full node hosts the software needed for transaction initiation, validation, mining, block creation, smart contract evaluation and EVM.
+ + A blockchain maintains both a state hash and a receipt hash
+ 
+ 
  
               
