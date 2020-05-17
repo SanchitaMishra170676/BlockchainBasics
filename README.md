@@ -1,5 +1,8 @@
-# BlockchainBasics
-Contains the assignment to the Blockchain Basics course offered by Buffalo University on Coursera.
+# BlockchainBasics : https://www.coursera.org/learn/blockchain-basics/home/welcome
+## Certificate : https://www.coursera.org/account/accomplishments/records/GYCDHPSXRUG4 
+```
++ Contains the assignment to the Blockchain Basics course offered by Buffalo University on Coursera.
+```
 Core topics :
 # Blockhain - for decentralised, peer to peer connection
 ## Developing Trust:
@@ -113,6 +116,8 @@ contract SimpleStorage {
  #### An ethereum full node hosts the software needed for transaction initiation, validation, mining, block creation, smart contract evaluation and EVM.
  + A blockchain maintains both a state hash and a receipt hash
  
+ 
+
  
  
               
