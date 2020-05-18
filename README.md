@@ -120,6 +120,41 @@ contract SimpleStorage {
  ```
  A blockchain maintains both a state hash and a receipt hash
  ```
+ ## Incentive Model
+ #### Gas limit 
+ Amount of gas available
+ #### Gas spent
+ Amount of gas spent on block creation
+ ```
+ Proof of work puzzle winner gets the transaction amount, others who solve it are know as Ommers who get a small bit of it.
+ ```
+ ## Securing Block chain - Verification and Validation
+ ### Hashing and assymetric key encryption
+ 
+ ## Public key cryptography algorithm
+ ### Caesar Algo.
+ encryption is done by shifting the alphabets by a particular distance.
+ #### issue - requires transfer of key and is easy to get and hence more prone to hacking
+ ## public key cryptography with two keys are used.
+ A tracnsaction or a contract locked by one's private key can be opened by a public key only and vice versa.
+ #### sender locks it with his private key and receiver's public key while the receiver unlocks it with his private key and sender's public key.
+ ## Algorithm used for genrating key pair 
+ #### ECC - Elliptic Curve Cryptography
+ vwhereas RSA (Rivet-Shamir-Adelman) is used in various other applications such as amazon cloud.
+ ## Hashing 
+ transforms an arbitrary length input data to a unique fixed length value (256 bits)
+ #### Algorithm is a one way function and hence collision free
+ secure hash agorithm which has 2^256 possible combinations.
+ ## Hashing is used to generate 
+ * Account Address
+ * Digital Signatures
+ * Transition hash
+ * State Hash
+ * Receipt hash
+ * Block header hash
+ 
+ 
+ 
  
  
 
