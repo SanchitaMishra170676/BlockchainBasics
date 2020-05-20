@@ -140,7 +140,7 @@ contract SimpleStorage {
  #### sender locks it with his private key and receiver's public key while the receiver unlocks it with his private key and sender's public key.
  ## Algorithm used for genrating key pair 
  #### ECC - Elliptic Curve Cryptography
- vwhereas RSA (Rivet-Shamir-Adelman) is used in various other applications such as amazon cloud.
+ whereas RSA (Rivet-Shamir-Adelman) is used in various other applications such as amazon cloud.
  ## Hashing 
  transforms an arbitrary length input data to a unique fixed length value (256 bits)
  #### Algorithm is a one way function and hence collision free
