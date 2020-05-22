@@ -4,7 +4,7 @@
 ### [Course](https://www.coursera.org/learn/blockchain-basics/home/welcome "Offered Course")
 
 ```
- Contains my assignment and notes of the Blockchain Basics course offered by Buffalo University on Coursera.
+This repo. contains my assignment and notes of the Blockchain Basics course offered by Buffalo University on Coursera.
 ```
 Core topics :
 # Blockhain - for decentralised, peer to peer connection
