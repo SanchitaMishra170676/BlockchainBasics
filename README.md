@@ -153,7 +153,7 @@ contract SimpleStorage {
  * Receipt hash
  * Block header hash
  
- ## [Smart Contract]( https://github.com/SanchitaMishra170676/SmartContracts  "Smart Contracts")
+ ## [Smart Contracts]( https://github.com/SanchitaMishra170676/SmartContracts  "Smart Contracts")
  
  
  
